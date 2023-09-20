@@ -1,1 +1,3 @@
-// Code your solution in this file!
+/const  componyName='scruber';
+ let mostProfitableNeighborhood='chelsea';
+ let companyName='Susan Smith';
